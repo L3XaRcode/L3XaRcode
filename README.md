@@ -10,7 +10,7 @@ I'm an aspiring data scientist and AI enthusiast with a passion for technology a
 
 💬 Ask me about anything related to Python, machine learning, or blockchain. I love discussing new technologies and sharing knowledge.
 
-📫 How to reach me: [Your LinkedIn Profile] | [ctw.tom@skiff.com]
+📫 How to reach me: [LinkedIn Profile] | [ctw.tom@skiff.com]
 
 ### Languages and Tools:
 - **Programming Languages**: Python, JavaScript (basic)
@@ -19,10 +19,10 @@ I'm an aspiring data scientist and AI enthusiast with a passion for technology a
 - **Blockchain**: Solidity, Ethereum
 
 ### My Projects
-(Here, list some of your key projects with a brief description and link to the repository)
+(soon...)
 
 ### Let's Connect!
-Feel free to reach out to me on [LinkedIn](Your LinkedIn URL). I'm always open to discussing tech, project ideas, or potential collaborations.
+Feel free to reach out to me on [LinkedIn](LinkedIn URL). I'm always open to discussing tech, project ideas, or potential collaborations.
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
